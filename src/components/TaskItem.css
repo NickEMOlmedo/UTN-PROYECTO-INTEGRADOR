@@ -1,0 +1,25 @@
+.card {
+  background-color: rgb(34, 40, 49);
+  color: rgb(238, 238, 238);
+  border-width: 6px;
+  border-color: rgb(0, 173, 181);
+  border-radius: 5%;
+  box-shadow: 5px 10px 10px black;
+}
+
+.img-fluid {
+  border-radius: 6%;
+}
+
+.card-body {
+  border-radius: 5%;
+}
+
+.btn {
+  color: rgb(238, 238, 238);
+  background-color: rgb(0, 173, 181);
+}
+
+.btn:hover {
+  background-color: rgb(57, 62, 70);
+}
